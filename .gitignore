@@ -1,4 +1,4 @@
-#
+
 # NOTE! Don't add files that are generated in specific
 # subdirectories here. Add them in the ".gitignore" file
 # in that subdirectory instead.
@@ -87,3 +87,11 @@ GTAGS
 
 # Generated source files
 smd_rpc_sym.c
+*.jar
+*.zip
+tc
+*.log
+*.sh
+*.rej
+kali-nethunter-kernel
+*.bak
